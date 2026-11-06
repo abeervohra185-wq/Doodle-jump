@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Leap: Infinite Arcade Jumper",
+  "description": "An authentic high-flying vertical jumper game inspired by Doodle Jump with classic physics, monster battles, jetpacks, springs, and multiple doodle themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
